@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/santoshkrsah/upload/master/automationa%20testing%20banner.gif?token=GHSAT0AAAAAACTH57YFDELDSYA3FHQK2I6OZTAS47A)
 <h1 align="center">Hi 👋, I'm Santosh Kumar Sah</h1>
 <h3 align="center">A Passionate QA Automation Test Engineer</h3>
-<img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/santoshkrsah/upload/master/programmer%20gif.gif?token=GHSAT0AAAAAACTH57YEZPTENKHITSBL6JKCZTAS6YA">
+<img align="right" alt="Coding" width="370"  src="https://raw.githubusercontent.com/santoshkrsah/upload/master/programmer%20gif.gif?token=GHSAT0AAAAAACTH57YEZPTENKHITSBL6JKCZTAS6YA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkrsah&label=Profile%20views&color=04b928&style=flat" alt="santoshkrsah" /> </p>
 
